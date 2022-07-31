@@ -10,6 +10,11 @@
 - Metamask: https://chrome.google.com/webstore/detail/metamask/nkbihfbeogaeaoehlefnkodbefgpgknn
 - Marvellous Suspender: https://chrome.google.com/webstore/detail/the-marvellous-suspender/noogafoofpebimajpfpamcfhoaifemoa
 - Postman: https://chrome.google.com/webstore/detail/postman/fhbjgbiflinjbdggehcddcbncdddomop
+- Yet another rest client 
+- Djson, json viewer and formatter
+- Elastic Search Head
+- Elastic Search tools
+- Rested
 
 
 ###Common
@@ -22,3 +27,4 @@
 - Screen Sharing: https://chrome.google.com/webstore/detail/mettl-tests-enable-screen/hkjemkcbndldepdbnbdnibeppofoooio
 - UnPaywall: https://chrome.google.com/webstore/detail/unpaywall/iplffkdpngmdjhlpjmppncnlhomiipha
 - Keep: https://chrome.google.com/webstore/detail/google-keep-notes-and-lis/hmjkmjkepdijhoojdojkdfohbdgmmhki
+- Grammerly
